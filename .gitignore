@@ -1,6 +1,7 @@
 *.class
 *.metadata/
 *.settings/
+*.recommenders/
 bin/
 
 # Mobile Tools for Java (J2ME)
